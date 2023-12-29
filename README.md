@@ -4,6 +4,8 @@
 
 This Jupyter notebook presents a Career Prediction Model using Deep Learning. The model utilizes Artificial Neural Networks (ANNs) and is trained on an anonymized dataset containing 20,000 entries and 38 features. The dataset includes academic data, personal interest data, knowledge data, communication skill data, teamwork data, problem-solving data, and self-management data.
 
+## Installation
+
 ```bash
 git clone https://github.com/your-username/career-prediction-model.git
 ```
