@@ -59,7 +59,7 @@ Principal Component Analysis (PCA) is applied for 2D and 3D visualization of the
 
 ## Conclusion
 
-The model performs well, suggesting job role categories and roles based on the input features. PCA analysis provides insights into the dataset's structure.
+The model performs well, suggesting job role categories and roles based on the input features. PCA analysis filed toprovides insights into the dataset's structure. Thus, the raw model without PCA is considered
 
 ## Author
 
