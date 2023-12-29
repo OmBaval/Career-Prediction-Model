@@ -68,4 +68,5 @@ The model performs well, suggesting job role categories and roles based on the i
 - LinkedIn: [https://www.linkedin.com/in/ombaval/](https://www.linkedin.com/in/ombaval/)
 
 This project is licensed under the [MIT License](LICENSE).
+
 Feel free to reach out for any questions or further collaboration.
