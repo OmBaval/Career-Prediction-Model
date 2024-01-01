@@ -7,7 +7,7 @@ This Jupyter notebook presents a Career Prediction Model using Deep Learning. Th
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/career-prediction-model.git
+git clone https://github.com/OmBaval/career-prediction-model.git
 ```
 Install the required dependencies:
 ```bash
